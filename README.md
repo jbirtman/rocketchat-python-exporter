@@ -19,3 +19,10 @@ RC_USER_ID = "PASTE_YOUR_ROCKETCHAT_USER_ID_HERE"
 Clicking on the 'General' Channel gives a readable html file:
 
 <img width="992" height="958" alt="image" src="https://github.com/user-attachments/assets/029e2ba9-2539-4014-8a11-cde533f4bee4" />
+
+## How to Find My RocketChat User ID and Auth Token:
+1. Click Profile Photo (top left)
+2. Click Preferences
+3. Click Personal Access Tokens (on the left side)
+4. Name your token and click "Add" blue button on the right side.
+5. In the "Personal Access Token successfully granted" window, save **(a) your token** and **(b) your user id** to use in this script.
