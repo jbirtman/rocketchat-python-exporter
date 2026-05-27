@@ -16,7 +16,7 @@ RC_USER_ID = "PASTE_YOUR_ROCKETCHAT_USER_ID_HERE"
 
 <img width="709" height="461" alt="image" src="https://github.com/user-attachments/assets/6ac2a421-2233-4b03-beb6-f9dad4df7bf3" />
 
-Clicking on the 'General' Channel gives a readable html file:
+Clicking on the 'General' Channel gives a readable html file of the conversation with attachments inline, just like the RocketChat client:
 
 <img width="992" height="958" alt="image" src="https://github.com/user-attachments/assets/029e2ba9-2539-4014-8a11-cde533f4bee4" />
 
